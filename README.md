@@ -35,21 +35,25 @@ The key objectives:
 ## Key Visual Insights 
 
 ### 1. Loan Approval by Education
-Shows whether education level impacts approval rate.
+What: Shows whether education level impacts approval rate.
+Why: Helps determine if educaiton influences lending decisions.
 
 ### 2. Default Rate by Property Area
-Reveals geographic risk areas with higher default patterns.
+What: Reveals geographic risk areas with higher default patterns.
+Why: Identify higher-risk geographic areas and adjust credit strategies or risk models accordingly.
 
 ### 3. Loan Amount Distribution
-Examines borrowing behavior and helps identify potential outliers.
+What: Examines borrowing behavior and helps identify potential outliers.
+Why: Reveals applicant borrowing behavior and potential anomalies.
 
 ### 4. Correlation Heatmap
-Explores the strength of relationships between features (income, loan amount, approval).
+What: Explores the strength of relationships between features (income, loan amount, approval).
+Why: Identifies which features might be useful in predictive modeling.
 
 ### 5. Approval Rate by Property Area
-Highlights which geographic areas tend to have higher loan approval success.
+What: Highlights which geographic areas tend to have higher loan approval success.
+Why: Highlights whether certain areas experience approval bias or priority.
 
---
 
 ## Next Steps 
 - Build a predictive model for default risk
