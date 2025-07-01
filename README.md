@@ -11,7 +11,7 @@ To analyze approval trends and risk patterns in loan applications using Python a
 The key objectives: 
 - Identify factors linked to higher loan approval.
 - Discover which property areas have higher default rates.
-- Visualize trends between income, loan amounts, and outcomes.
+- Visualize approval and default trends across income levels and property areas.
 
 --- 
 
@@ -22,8 +22,6 @@ The key objectives:
 - Seaborn
 - Matplotlib 
 
--- 
-
 ## Data Cleaning Steps 
 - Standarized column names
 - Parsed inconsistent date formats 
@@ -33,7 +31,6 @@ The key objectives:
 - Mapped 'Y'/'N' approval statuses to 1/0
 - Removed outliers for cleaner visualizations
 
---
 
 ## Key Visual Insights 
 
@@ -49,8 +46,8 @@ Examines borrowing behavior and helps identify potential outliers.
 ### 4. Correlation Heatmap
 Explores the strength of relationships between features (income, loan amount, approval).
 
-### 5. Income vs. Loan Amount 
-Shows the relationship between income and loan amount, colored by approval status.
+### 5. Approval Rate by Property Area
+Highlights which geographic areas tend to have higher loan approval success.
 
 --
 
@@ -59,8 +56,5 @@ Shows the relationship between income and loan amount, colored by approval statu
 - Make the dashboard interactive
 - Integrate additional data
 
---
 
-Thank you!# loan-insights-dashboard
-# loan-insights-dashboard
-# loan-insights-dashboard
+Thank you!
