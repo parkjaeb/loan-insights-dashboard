@@ -61,4 +61,4 @@ Shows the relationship between income and loan amount, colored by approval statu
 
 --
 
-Thank you!
+Thank you!# loan-insights-dashboard
